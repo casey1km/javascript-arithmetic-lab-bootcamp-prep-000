@@ -1,1 +1,1 @@
-function 
+var a =
