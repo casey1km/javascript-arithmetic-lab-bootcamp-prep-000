@@ -21,7 +21,3 @@ function dec(a) {
 function makeInt(a) {
   return parseInt(a,10)
 }
-
-a = 9000
-
-makeInt('900')
