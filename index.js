@@ -19,5 +19,7 @@ function dec(a) {
   return a--
 }
 function makeInt(a) {
-  return parseInt(a.toString(),10)
+  return parseInt(a,10)
 }
+
+a = 9000
