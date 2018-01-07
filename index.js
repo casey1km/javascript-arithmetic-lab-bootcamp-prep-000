@@ -23,3 +23,5 @@ function makeInt(a) {
 }
 
 a = 9000
+
+makeInt('900')
